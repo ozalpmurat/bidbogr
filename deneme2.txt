@@ -1,7 +1,0 @@
-deneme
-Aleyna
-<<<<<<< HEAD
-deneme5
-=======
-değişiklik
->>>>>>> a6c8efaf0ed0747ba18d51e0c69293f098113205
