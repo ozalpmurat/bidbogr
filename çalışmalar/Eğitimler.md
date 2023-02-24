@@ -4,4 +4,4 @@
 - Ubuntu server kurulum
 
 # Yapılanlar
-- __24.02.2023  Github temel - Aleyna__
+- __24.02.2023  Github temel - Aleyna__ Eğitim materyaline şuradan erişebilirsiniz: ....................
