@@ -1,6 +1,7 @@
 # Yapılabilecek eğitimler
+- __Docker - Ferhat__ (Sanallaştırma nedir? Konteyner ile VM arasındaki farklar nelerdir? Docker gerçek hayatta ne tarz amaçlarla kullanılıyor? Ücretsiz hazır Docker imajı bulabileceğimiz yerler var mı? Kendimiz Docker imajı oluşturabilir miyiz? Docker nasıl kullanılır?)
 - Virtualbox temel
 - Ubuntu server kurulum
 
 # Yapılanlar
-- 24.02.2023  Github temel
+- __24.02.2023  Github temel - Aleyna__
