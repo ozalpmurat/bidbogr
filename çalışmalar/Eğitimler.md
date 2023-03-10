@@ -1,5 +1,6 @@
 # Yapılabilecek eğitimler
 - Ağ temelleri uygulaması. Konnektör çakma, kabin planlama, kablo kontrolü, fiberoptik kontrolü ve kablo türleri, vb.
+- İş hayatı ve temel iletişim (Fatih Aydın)
 - Anahtar konfigürasyonu (birkaç anahtarla vlan yapılandırması)
 - Virtualbox temel
 - Ubuntu server kurulum
