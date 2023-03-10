@@ -1,6 +1,7 @@
 # Yapılabilecek eğitimler
-- Ağ temelleri uygulaması. Konnektör çakma, kabin planlama, kablo kontrolü, fiberoptik kontrolü ve kablo türleri, vb.
+- Ağ temelleri uygulaması (Gürkan Terzioğlu). Konnektör çakma, kabin planlama, bakır kablo kontrolü, bakır kabloda mesafe ölçme ve kopuk teller ve anahtar bilgisi görme, fiberoptik kontrolü ve kablo türleri, vb.
 - İş hayatı ve temel iletişim (Fatih Aydın)
+- Araştırma tekniklerine giriş ve SPSS (Fatih Aydın) 
 - Anahtar konfigürasyonu (birkaç anahtarla vlan yapılandırması)
 - Virtualbox temel
 - Ubuntu server kurulum
