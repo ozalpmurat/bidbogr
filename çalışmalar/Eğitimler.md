@@ -2,6 +2,7 @@
 - Bilişim güvenliği regülasyonları ve mevzuat: SOME, USOM, ISO27001, KVKK/GDPR, 5651, Sayıştay BSD, CBDDO BGD, vb. (Bilge Karakaş Engin)
 - Bilişim güvenliği regülasyonları ve mevzuat: Teknik Tednirler (..)
 - Mobil uygulama geliştirme (temel işlemler, IDE seçimi, basit uygulamalar, firebase bağlantısı, vb.) (Yusuf Muştu)
+- Bulut bilişim nedir? (Musa Turkan)
 - İş hayatı ve temel iletişim (Fatih Aydın)
 - Anahtar konfigürasyonu, birkaç anahtarla vlan yapılandırması (..)
 - Virtualbox temel (..)
