@@ -1,5 +1,6 @@
 # Yapılabilecek eğitimler
 - İş hayatı ve temel iletişim (Fatih Aydın)
+- Mobil uygulama geliştirme (temel işlemler, IDE seçimi, basit uygulamalar, firebase bağlantısı, vb.) (Yusuf Muştu)
 - Anahtar konfigürasyonu (birkaç anahtarla vlan yapılandırması)
 - Virtualbox temel
 - Ubuntu server kurulum
