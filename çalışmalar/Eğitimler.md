@@ -1,10 +1,12 @@
 # Yapılabilecek eğitimler
-- İş hayatı ve temel iletişim (Fatih Aydın)
+- Bilişim güvenliği regülasyonları ve mevzuat: SOME, USOM, ISO27001, KVKK/GDPR, 5651, Sayıştay BSD, CBDDO BGD, vb. (Bilge Karakaş Engin)
+- Bilişim güvenliği regülasyonları ve mevzuat: Teknik Tednirler (..)
 - Mobil uygulama geliştirme (temel işlemler, IDE seçimi, basit uygulamalar, firebase bağlantısı, vb.) (Yusuf Muştu)
-- Anahtar konfigürasyonu (birkaç anahtarla vlan yapılandırması)
-- Virtualbox temel
-- Ubuntu server kurulum
-- Veri merkezi bileşenleri. Neye göre seçilir? Veri merkezi türleri? FKM?,
+- İş hayatı ve temel iletişim (Fatih Aydın)
+- Anahtar konfigürasyonu, birkaç anahtarla vlan yapılandırması (..)
+- Virtualbox temel (..)
+- Ubuntu server kurulum (..)
+- Veri merkezi bileşenleri. Neye göre seçilir? Veri merkezi türleri? FKM?, (..)
 
 # Yapılanlar
 - __17.03.2023 (Ö.S)  Ağ temelleri uygulaması (Gürkan Terzioğlu)__ Lehim yapma, konnektör çakma, kabin planlama, bakır kablo kontrolü, bakır kabloda mesafe ölçme ve kopuk teller ve anahtar bilgisi görme, fiberoptik kontrolü ve kablo türleri, kabin içi yerleşim planlama, vb.
