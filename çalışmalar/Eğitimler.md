@@ -1,4 +1,5 @@
 # Yapılabilecek eğitimler
+- AutoCAD. Boş bir bina planına data yerleştirme. Bir tane dolu projeyi çözümleme (kolon şeması, kaç tane uç/kamera/kablosuz var).
 - Nesne tabanlı programlama temel kavramlar ve uygulamaları (C# ve Python ile). Encapsulation, metot, abstract class, interface, polimorfizm, inheritance (Musa Turkan)
 - Bilişim güvenliği regülasyonları ve mevzuat: SOME, USOM, ISO27001, KVKK/GDPR, 5651, Sayıştay BSD, CBDDO BGD, vb. (Bilge Karakaş Engin)
 - Bilişim güvenliği regülasyonları ve mevzuat: Teknik Tednirler (..)
