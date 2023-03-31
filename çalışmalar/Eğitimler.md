@@ -1,6 +1,6 @@
 # Yapılabilecek eğitimler
-- __07.04.2032 (kesin değil) Yusuf Muştu - Mobil Uygulama Geliştirme Ortamları ve Yöntemleri__ Temel işlemler, IDE seçimi, basit uygulamalar, firebase bağlantısı, vb.
-- __14.07.2023 (kesin değil) Serhat Ay - Oyun geliştirme temelleri__. Oyun piyasası nasıl bir yer, yayıncı nedir? Unity kurulumu ve Github entegrasyonu, Unity ile "merhaba dünya" projesi, Popüler oyun türleri, Oyun geliştirirken hangi araçlar ve hangi aşamalar var? Ekip nasıl kurulur? Ekipte iş dağılımı nasıl yapılır? İşler/görevler nasıl takip edilir? 
+- __07.04.2032 Yusuf Muştu - Mobil Uygulama Geliştirme Ortamları ve Yöntemleri__ Temel işlemler, IDE seçimi, basit uygulamalar, firebase bağlantısı, vb.
+- __14.07.2023 Serhat Ay - Oyun geliştirme temelleri__. Oyun piyasası nasıl bir yer, yayıncı nedir? Unity kurulumu ve Github entegrasyonu, Unity ile "merhaba dünya" projesi, Popüler oyun türleri, Oyun geliştirirken hangi araçlar ve hangi aşamalar var? Ekip nasıl kurulur? Ekipte iş dağılımı nasıl yapılır? İşler/görevler nasıl takip edilir? 
 
 - Gürkan Terzioğlu - AutoCAD. Boş bir bina planına data yerleştirme. Bir tane dolu projeyi çözümleme (kolon şeması, kaç tane uç/kamera/kablosuz var).
 - Bilge Karakaş Engin - Bilişim güvenliği regülasyonları ve mevzuat: SOME, USOM, ISO27001, KVKK/GDPR, 5651, Sayıştay BSD, CBDDO BGD, vb.
