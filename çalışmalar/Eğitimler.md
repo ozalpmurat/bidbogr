@@ -13,7 +13,7 @@
 - Veri merkezi bileşenleri. Neye göre seçilir? Veri merkezi türleri? FKM?, (..)
 
 # Yapılanlar
-- __31.03.2023 Musa Turkan - Nesne tabanlı programlama temel kavramlar__ Encapsulation, metot, abstract class, interface, polimorfizm, inheritance, vb. Eğitim videosunun yarısında kaydetmek aklıma geldiği için, yarım kayıt izlemek isteyenler şuraya gidebilir: https://www.youtube.com/watch?v=o4xyDEJqkBM
+- __31.03.2023 Musa Turkan - [Nesne tabanlı programlama](https://github.com/ozalpmurat/bidbogr/blob/110a9575d29afffafb01b0af5af6f325f46047b9/%C3%A7al%C4%B1%C5%9Fmalar/31.03.2023%20-%20Nesne%20Tabanl%C4%B1%20Programlama.pdf) temel kavramlar__ Encapsulation, metot, abstract class, interface, polimorfizm, inheritance, vb. Eğitim videosunun yarısında kaydetmek aklıma geldiği için, yarım kayıt izlemek isteyenler şuraya gidebilir: https://www.youtube.com/watch?v=o4xyDEJqkBM
 - __17.03.2023 (Ö.S) Gürkan Terzioğlu - Ağ temelleri uygulaması__ Lehim yapma, konnektör çakma, kabin planlama, bakır kablo kontrolü, bakır kabloda mesafe ölçme ve kopuk teller ve anahtar bilgisi görme, fiberoptik kontrolü ve kablo türleri, kabin içi yerleşim planlama, vb.
 - __17.03.2023 (Ö.Ö) Fatih Aydın - Bilimsel Araştırma Yöntemleri ve SPSS__ Hpotez, varlık/yokluk hipotezi, hata varyansı, anlamlı/anlamsız veri, nicel/nitel araştırma, bağımlı/bağımsız değişkenler, örneklem ve örnekleme yöntemleri, SPSS (değişkenler, veriler, veri girme, betimsel istatistik, regresyon, korelasyon, veri anlamlılık oranı [significance 2-tailed])
 - __10.03.2023 Uğur Talaş - Temel SQL__ SQL nedir? En yaygın kullanılan işlemler nedir? VT tasarlarken nelere dikkat edilir? Gerçek hayatta VT nasıl kullanılır? Bizim örnek bir VT'miz nasıl tasarlandı? Örnek bir sorgu nasıl yazılır?
